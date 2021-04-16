@@ -1,6 +1,4 @@
-### Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+### Clique [aqui](https://matheusmartino97.github.io/19_sd-09-project-trybewallet/#/) para acessar a github page do meu projeto! :rocket: 
 
 ---
 
